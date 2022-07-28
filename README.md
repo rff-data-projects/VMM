@@ -93,7 +93,7 @@ hybrids and plug-ins.
 
 See section 4, 'Equilibrium Model' in [Balancing Equity and Effectiveness for Electric Vehicle Subsidies, RFF Working Paper 22-7](https://media.rff.org/documents/WP_22-7_January_2022.pdf)
 
-### Estimation
+## Estimation
 
 See section 5, 'Estimation' in [Balancing Equity and Effectiveness for Electric Vehicle Subsidies, RFF Working Paper 22-7](https://media.rff.org/documents/WP_22-7_January_2022.pdf)
 
