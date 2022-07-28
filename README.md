@@ -30,11 +30,11 @@ I obtain vehicle attributes from Wards and EPA, which I merge to the Maritz data
 
 Vehicle and fuel prices are converted to 2018 dollars using the BLS Consumer Price Index. The final data set consists of vehicle prices and attributes for each demographic group (20 groups), vehicle (about 1,200 unique vehicles each year), region (California, other ZEV states, and non-ZEV states), and year (2010–2018). I supplement the data with plug-ins that have entered the market since 2018 and vehicles that manufacturers intend to introduce by 2023. For those that have already entered, I collect vehicle attributes from the same data sources as in the MaritzCX data. For vehicles that have not yet entered, I collect data from public announcements by the corresponding manufacturers. For missing values, I impute values using averages across entrants with nonmissing data.
 
-###Summary Statistics
+### Summary Statistics
 
 This subsection reports summary statistics of the main data used for the computational model estimation and simulations and some background on plug-in sales over time and across demographic groups. In Table 1, observations are by vehicle, demographic group, region, and year, and the sample shows extensive variation in vehicle attributes. 
 
-####Table 1: Summary Statistics for Demand Data Set (2010–2018)
+#### Table 1: Summary Statistics for Demand Data Set (2010–2018)
 |     | Mean | Standard Deviation | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- |
 | Transaction price (2018$, including subsidies) | 34,411 | 12,518 | 21,924 | 49,434 |
