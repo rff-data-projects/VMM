@@ -1,15 +1,15 @@
-#Vehicle Market Model Overview
+# Vehicle Market Model Overview
 
 _By Joshua Linn, RFF Senior Fellow_
 Source: [Balancing Equity and Effectiveness for Electric Vehicle Subsidies, RFF Working Paper 22-7](https://media.rff.org/documents/WP_22-7_January_2022.pdf)
 
-##Model Summary
+## Model Summary
 
 RFF maintains a model of the US market for new passenger vehicles and light trucks. Underpinning the model is a unique dataset of 1.5 million vehicle purchase decisions made by households during 2010-2018 and updated on a regular basis. These data include a detailed description of the vehicle purchased, other vehicles considered for purchase, and household demographics and economic characteristics.  Consumer preferences for vehicle attributes are estimated from the survey data. The model integrates household preferences for vehicle attributes with manufacturer decisions of vehicle technology and pricing and of entry of new electric vehicles. This model can simulate the economic and environmental impacts of policies that affect the new vehicle market.  Such policies include, but are not limited to, fuel economy and greenhouse gas standards, electric vehicle mandates and subsidies, electric vehicle charging infrastructure investments, gasoline and/or carbon taxes, and greenhouse gas cap and trade programs. Extensions of the model to the region and state level enable analysis of policies such as the zero-emissions vehicle mandate, regional carbon policies, state gasoline taxes, and electric vehicle subsidies (including charging infrastructure investments).
 
-##Data and Summary Statistics
+## Data and Summary Statistics
 
-###Data
+### Data
 
 The subsection describes the construction of the main data set. The primary data source is the MaritzCX New Vehicle Customer Survey (NVCS). MaritzCX sends the survey to households that recently purchased new vehicles and sells the data to vehicle manufacturers, industry analysts, and researchers. Each year, MaritzCX collects about 200,000 responses (the response rate is about 9 percent). I use data from the 2010–2018 surveys, which include about 1.5 million responses representing about 1 percent of buyers.
 
@@ -47,7 +47,7 @@ _Note: Observations are weighted by sales. The data include 647,440 observations
 
 The figure below illustrates the variation of vehicle attributes across income groups. 
 
-####Figure: Mean Transaction Price, Fuel Economy, Horsepower, and Light Truck Share by Income
+#### Figure: Mean Transaction Price, Fuel Economy, Horsepower, and Light Truck Share by Income
 Group
 ![Figure showing Mean Transaction Price, Fuel Economy, Horsepower, and Light Truck Share by Income
 Group](https://github.com/rff-data-projects/VMM/blob/cbf31cc16d3f20427040c01d7401cd90bc3a0d5b/Screen%20Shot%202022-07-28%20at%2010.12.49%20AM.png)
@@ -60,7 +60,7 @@ Individuals belonging to the highest-income group purchase vehicles with average
 
 The figure below shows market shares of hybrids, plug-in hybrids, and EVs by year. Hybrids represent about 3 percent of sales through 2014 and decline to about 2 percent by 2018. Plug-in and EV shares increase steadily and at about the same rate as one another between 2010 and 2017. In 2018, the EV share increases relative to the plug-in hybrid share, which is largely due to the entry of the Tesla Model 3.
 
-####Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Year
+#### Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Year
 ![Figure: Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Year](https://github.com/rff-data-projects/VMM/blob/f646e1061145f95dda465499ac8642285f5f5731/Screen%20Shot%202022-07-28%20at%2010.16.39%20AM.png)
 
 The next two figures show variation of plug-in purchasing patterns across income groups. The lowest-income group is substantially more likely to purchase a hybrid. In contrast, the probability of purchasing a plug-in hybrid or EV increases by income. A possible interpretation of this pattern is that many hybrid buyers are interested in the fuel cost savings, whereas the plug-in buyers are interested in the new technology. The figure indicates one of the challenges of the demand estimation, which is to disentangle consumer demand for fuel cost savings from demand for the technology per se; for example, plug-in technology could be a status symbol, and some consumers may like being early adopters.
@@ -86,18 +86,18 @@ Massachusetts, New Jersey, New York, Oregon, Pennsylvania, Rhode Island, Vermont
 The next figure shows the increasing supply of plug-ins over time. The numbers of available plug-in hybrids and EVs increased steadily (some plug-in hybrids have exited, such as the RAV4). By 2018, the number of plug-ins was similar to that of hybrids. The number of available hybrids peaked in 2013 and declined gradually through 2018. This pattern could be explained by declining gasoline prices after 2014 (not shown) and competition between
 hybrids and plug-ins.
 
-####Number of Available Hybrids, Plug-in Hybrids, and Electric Vehicles by Year
+#### Number of Available Hybrids, Plug-in Hybrids, and Electric Vehicles by Year
 ![Figure showing Number of Available Hybrids, Plug-in Hybrids, and Electric Vehicles by Year](https://github.com/rff-data-projects/VMM/blob/faffec372b39ce755ad3054cea4c881f8c06ae10/Screen%20Shot%202022-07-28%20at%2010.23.54%20AM.png)
 
-##Equilibrium Model
+## Equilibrium Model
 
 See section 4, 'Equilibrium Model' in [Balancing Equity and Effectiveness for Electric Vehicle Subsidies, RFF Working Paper 22-7](https://media.rff.org/documents/WP_22-7_January_2022.pdf)
 
-###Estimation
+### Estimation
 
 See section 5, 'Estimation' in [Balancing Equity and Effectiveness for Electric Vehicle Subsidies, RFF Working Paper 22-7](https://media.rff.org/documents/WP_22-7_January_2022.pdf)
 
-##End Notes
+## End Notes
 [^1]: I use the Consumer Expenditure Survey (CEX) to weight NCVS observations to account for nonuniform
 response rates across demographic groups. Because of the CEX sample size, it is not possible to construct
 more than about 20 demographic groups. The 20 groups that include income, age, and urbanization explain
