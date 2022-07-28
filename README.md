@@ -65,19 +65,19 @@ The figure below shows market shares of hybrids, plug-in hybrids, and EVs by yea
 
 The next two figures show variation of plug-in purchasing patterns across income groups. The lowest-income group is substantially more likely to purchase a hybrid. In contrast, the probability of purchasing a plug-in hybrid or EV increases by income. A possible interpretation of this pattern is that many hybrid buyers are interested in the fuel cost savings, whereas the plug-in buyers are interested in the new technology. The figure indicates one of the challenges of the demand estimation, which is to disentangle consumer demand for fuel cost savings from demand for the technology per se; for example, plug-in technology could be a status symbol, and some consumers may like being early adopters.
 
-####2018 Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Income Group
+#### 2018 Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Income Group
 ![Figure: 2018 Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Income Group](https://github.com/rff-data-projects/VMM/blob/4ba21206c3c22ab94088449682bd3087a5df2f3f/Screen%20Shot%202022-07-28%20at%2010.19.32%20AM.png)
 
 The next figure shows that hybrids and plug-in hybrids have lower transaction prices than EVs on average. For context, the average transaction price across all vehicles is about $35,000, indicating that EVs are substantially more expensive than the average, whereas hybrid and plug-in hybrid vehicles are below average. Battery costs partly explain the higher prices of EVs, as they have larger battery packs. Another factor is that many EV models compete
 with luxury rather than midlevel vehicles and offer features common in luxury vehicles such as advanced safety technologies and automated driving features.
 
-####Transaction Prices of Hybrids, Plug-in Hybrids, and Electric Vehicles by Income Group
+#### Transaction Prices of Hybrids, Plug-in Hybrids, and Electric Vehicles by Income Group
 ![Figure showing transaction Prices of Hybrids, Plug-in Hybrids, and Electric Vehicles by Income Group](https://github.com/rff-data-projects/VMM/blob/c2dba88f39d715b835e264c0e0c94041d79b6053/Screen%20Shot%202022-07-28%20at%2010.20.44%20AM.png)
 
 Whereas the previous figures showed variation in vehicle attributes across fuel types, the next figure shows variation in hybrid and plug-in market shares across regions. The market shares of plug-ins and EVs are about 10 times higher in California than in non-ZEV states. The ZEV program may explain this difference, but the figure indicates that consumer preferences also play a role. The ZEV program does not incentivize hybrid sales, and yet
 the share of hybrids in California is higher than in non-ZEV states. Moreover, although the ZEV programs provides the same incentives for ZEV sales in California and the other ZEV states, market shares of plug-ins are still higher in California.
 
-####2018 Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Region
+#### 2018 Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Region
 ![Figure showing 2018 Market Shares of Hybrids, Plug-in Hybrids, and Electric Vehicles by Region](https://github.com/rff-data-projects/VMM/blob/0e44932bd8fdf32a8c50c346f02fa64aa48cd240/Screen%20Shot%202022-07-28%20at%2010.23.11%20AM.png)
 _Notes: The figure shows the 2018 market shares of hybrid, plug-in hybrid, and electric vehicles for the
 indicated region. Other zero-emission vehicle (ZEV) states are Connecticut, Delaware, Maine, Maryland,
