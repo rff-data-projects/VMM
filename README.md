@@ -1,6 +1,7 @@
 # Vehicle Market Model Overview
 
 _By Joshua Linn, RFF Senior Fellow_
+
 Source: [Balancing Equity and Effectiveness for Electric Vehicle Subsidies, RFF Working Paper 22-7](https://media.rff.org/documents/WP_22-7_January_2022.pdf)
 
 ## Model Summary
