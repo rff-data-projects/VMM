@@ -1,4 +1,4 @@
-# Vehicle Market Model Overview
+# RFF Vehicle Market Model Overview
 
 _By Joshua Linn, RFF Senior Fellow_
 
